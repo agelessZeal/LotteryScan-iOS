@@ -1,7 +1,6 @@
 # LotteryScan-iOS
 
- <img src="images/IMG_0314.png" width="25%" />  <img src="images/IMG_0315.png" width="25%" />  <img src="images/IMG_0316.png" width="25%" /> <img src="images/IMG_0317.png" width="25%" />
- 
+ <img src="images/IMG_2560.png" width="25%" />  <img src="images/IMG_0315.png" width="25%" />  <img src="images/IMG_0316.png" width="25%" /> 
   This app is for turkey lottery scan and cheking app with OCR.
 
 
