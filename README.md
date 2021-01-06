@@ -1,13 +1,8 @@
 # LotteryScan-iOS
  This app is for turkey lottery scan and cheking app with OCR.
  
- <img src="images/IMG_0314.png"/>
- <img src="images/IMG_0315.png"/>
- <img src="images/IMG_0316.png"/>
- <img src="images/IMG_0317.png"/>
- <img src="images/IMG_0318.png"/>
- <img src="images/IMG_2559.png"/>
- <img src="images/IMG_2560.png"/>
+ ![Main](images/IMG_0314.png?raw=true "Image1") ![Image2](images/IMG_0315.png?raw=true "Image2") ![Image3](images/IMG_0316.png?raw=true "Image3")
+
  
  # Main Feature.
  The user can scan the lottery coupon by the real camera and check the lottery result automatically.
