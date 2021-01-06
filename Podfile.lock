@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.2.2)
+  - JSSAlertView (5.0.2)
+  - KVNProgress (2.3.5)
+  - MBProgressHUD (1.2.0)
+  - OneSignal (2.15.3)
+  - OpenCV (4.1.0)
+  - SCLAlertView (0.8)
+  - SwiftyJSON (5.0.0)
+  - TesseractOCRiOS (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - JSSAlertView
+  - KVNProgress
+  - MBProgressHUD
+  - OneSignal (< 3.0, >= 2.11.2)
+  - OpenCV (= 4.1.0)
+  - SCLAlertView
+  - SwiftyJSON
+  - TesseractOCRiOS (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JSSAlertView
+    - KVNProgress
+    - MBProgressHUD
+    - OneSignal
+    - OpenCV
+    - SCLAlertView
+    - SwiftyJSON
+    - TesseractOCRiOS
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  JSSAlertView: 18345e37d8295827428c12b773b6d75d0dfd0b28
+  KVNProgress: d7046cce142f1aeb740db39dc3cacfe910fac354
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  OneSignal: d85b81aa313ed8040522b884f556267883d652c2
+  OpenCV: 52cd4d72ff29e2be83421477aec5447320b7fb19
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TesseractOCRiOS: 2c189465f86abb030d0c5141c90da9705b647854
+
+PODFILE CHECKSUM: c4346ee3384b5ef1df8ab53c36c8381339f9bd62
+
+COCOAPODS: 1.9.3
